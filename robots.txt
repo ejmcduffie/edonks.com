@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://edonks.com
+Sitemap: https://edonks.com/sitemap.xml
